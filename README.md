@@ -2,6 +2,13 @@
 # GST Calculator
 Aim of this GST calculator is to make a console application using Object oriented concepts which will be able to calculate price of products given to it Read more information in Problem statement.
 
+## How to?
+In your linux terminal: 
+`git clone https://github.com/Amey-Jain/OOP-gst_calc.git`
+`cd OOP-gst_calc;`
+`./compile.sh`
+`./main --run`
+
 ## Classes
 
 ### Product
