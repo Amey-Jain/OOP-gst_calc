@@ -4,10 +4,10 @@ Aim of this GST calculator is to make a console application using Object oriente
 
 ## How to?
 In your linux terminal: 
-`git clone https://github.com/Amey-Jain/OOP-gst_calc.git
+`git clone https://github.com/Amey-Jain/OOP-gst_calc.git;
 cd OOP-gst_calc;
-./compile.sh
-./main --run`
+./compile.sh;
+./main --run;`
 
 ## Classes
 
