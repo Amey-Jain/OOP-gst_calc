@@ -8,5 +8,5 @@
 using namespace std;
 
 string load_db(int &count);
-
+int write_to_db(int count);
 #endif

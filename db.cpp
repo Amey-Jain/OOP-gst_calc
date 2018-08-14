@@ -14,7 +14,6 @@ string load_db(int &count){
   ifstream myfile;
   string data;
   string buffer;
-  char *str;
   myfile.open(db_file, ifstream::in);
   if(myfile.is_open())
     while(getline(myfile, buffer)){
@@ -44,5 +43,6 @@ string load_db(int &count){
   myfile.close();
   return data;
 }
+
 
 

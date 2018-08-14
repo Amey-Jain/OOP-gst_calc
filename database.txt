@@ -2,16 +2,15 @@
 # Lines starting with # are comment lines and
 # are ignored while loading database
 #product_count	    12		
-rice	kg	0	60 x
-wheat	kg	0	56 x
-dal	kg	0	85 x
-table	nos	5	2500 x
-sofa	nos	5	3000 x
-chair	nos	5	1500 x
-mobile	nos	18	5000 x
-tv	nos	18	1500 x
-tablet	nos	18	450 x
-creme	ml	28	500 x
-perfume	ml	28	500 x
-lotion	ml	28	330 x
-
+rice	kg	0	60 |
+wheat	kg	0	56 |
+dal	kg	0	85 |
+table	nos	5	2500 |
+sofa	nos	5	3000 |
+chair	nos	5	1500 |
+mobile	nos	18	5000 |
+tv	nos	18	1500 |
+tablet	nos	18	450  |
+creme	ml	28	500  |
+perfume	ml	28	500  |
+lotion	ml	28	330  |
